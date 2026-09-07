@@ -1,0 +1,19 @@
+MAS smart_restaurant_hard_coordination {
+
+    environment: RestaurantEnv(on)
+
+    agents:
+        customer1;
+        customer2;
+        customer3;
+        restaurantManager;
+        waiter1;
+        waiter2;
+        chef1;
+        chef2;
+        inventoryManager;
+        cashier;
+
+    aslSourcePath:
+        "src/asl";
+}
