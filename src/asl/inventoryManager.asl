@@ -1,12 +1,5 @@
 // inventoryManager.asl
 // Checks physical ingredient stock through the environment and proposes
-// alternatives. Table supplies remain simple reusable stock items.
-
-alternative(pasta, risotto).
-alternative(pizza, soup).
-alternative(risotto, salad).
-alternative(salad, soup).
-alternative(soup, salad).
 
 supply(water, available).
 supply(napkins, available).
