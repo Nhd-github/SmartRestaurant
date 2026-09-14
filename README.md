@@ -15,9 +15,7 @@
 
 ### 📽️ Demo
 
-[![Watch the demo](https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK_HERE)
-
-> Replace `YOUR_VIDEO_LINK_HERE` with your YouTube / GitHub Release link.
+[![Watch the demo](https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/Nhd-github/SmartRestaurant/raw/main/demo_compressed.mp4)
 
 ---
 
